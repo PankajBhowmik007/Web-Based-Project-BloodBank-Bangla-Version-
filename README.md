@@ -1,0 +1,2 @@
+This project was developed by the author Pankaj Bhowmik to fulfil an academic course titled "System Analysis and Design" aka "SAD". I tried to make a community within Hajee Mohammad 
+Danesh Science and Technology University, Dinajpur, Bangladesh where people can help one others in need of blood. This web based project is especially developed using bangla language.  

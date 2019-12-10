@@ -1,0 +1,24 @@
+body
+{
+text-align: center; 
+}
+
+h1{
+color: black;
+font-family: "Times New Roman";
+font-size: 30px;
+font-weight: 20px;
+text-align: center;
+}
+p{
+color: black;
+font-size: 20px;
+}
+table, th, td {
+    vertical-align:middle;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td {
+    padding: 15px;
+}
